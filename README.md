@@ -7,3 +7,5 @@ Technologies used HTML, CSS, Javascript, Jquery and PHP.
 To Run the app host it on some online server or Wamp which supports PHP.
 
 index.php is the homepage.
+
+Made with the help of udemy course.
